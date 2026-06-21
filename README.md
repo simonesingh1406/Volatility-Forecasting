@@ -306,7 +306,7 @@ In rolling DM chart Regime GARCH wins during the 2013–2019 period where market
 So regime GARCH earns its added complexity during normal to moderate stress, which makes up the majority of the sample. It underperforms during once in a decade structural breaks that fall outside what the HMM has ever seen, which is also when no model performs particularly well.
 
 | Model | RMSE | MAE | MAPE (%) | QLIKE | Hit Ratio | Bias |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | Historical Volatility | 0.10235 |	0.05998	| 39.05	| -2.3351 | 0.464 | -0.00008 |
 | EWMA | 0.08819 |	0.05305	| 35.40	| -2.5338 | 0.320	| 0.00351 |
 | GARCH(1,1) | 0.08412 |	0.05206	| 36.26	| -2.6070 |	0.506 |	0.00454 |
