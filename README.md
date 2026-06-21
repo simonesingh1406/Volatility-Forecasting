@@ -27,7 +27,7 @@ The purpose of this project was to learn new concepts through their application.
 
 **Aim:** Understand the empirical properties of SPY returns before building any models.
 
-**Theory:** Log returns $r_t = \ln(P_t / P_{t-1})$ are approximately stationary. Their distribution, autocorrelation structure and volatility dynamics tell us what kind of model we need. To understand these things I dif the following
+**Theory:** Log returns $r_t = \ln(P_t / P_{t-1})$ are approximately stationary. Their distribution, autocorrelation structure and volatility dynamics tell us what kind of model we need. To understand these things I did the following
 
 - Plotted 20 years of price history and identified major economic events
 - Computed the full return distribution and compared against Gaussian
@@ -112,7 +112,7 @@ The decay parameter $\lambda$ controls the memory of the model. The RiskMetrics 
 - Implemented the EWMA recursion from scratch
 - Compared against HV benchmark visually and with metrics
 - Explored sensitivity to $\lambda$ across the range 0.85 to 0.99
-- Studied the performance off EWMA during the COVID crash
+- Studied the performance of EWMA during the COVID crash
 
 **Results:**
 
